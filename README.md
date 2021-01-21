@@ -12,7 +12,6 @@ This repository contains:
 **The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 
 
-
 The presented PBPK model of S-mephenytoin has been developed to be used in a PBPK Drug-DrugInteractions (DDI) network with S-mephenytoin as a substrate of CYP2C19. The development of this model is described in the publication by Kanacher *et al.* [[1](https://github.com/Open-Systems-Pharmacology/Ethinylestradiol-Model#references)]
 
 ## Code of conduct
