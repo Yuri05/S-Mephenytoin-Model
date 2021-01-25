@@ -1,0 +1,3 @@
+A PBPK model describing the limited set of in vivo p.o. data could be established.
+
+Population simulated data had a comparable variability with the observed data when included additional variability for CYP2C19 expression. Moreover, the mean data from other studies ([Jacqz 1986](#5-References), [Wedlund 1985](#5-References)) were in the range of expected variability, confirming the adequacy of the model.
